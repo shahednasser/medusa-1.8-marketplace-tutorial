@@ -29,7 +29,15 @@ cd <directory>
 npm install
 ```
 
-3. Start Server:
+3. Run Migrations or seed the database:
+
+```bash
+npm run seed
+# or
+medusa migrations run
+```
+
+4. Start Server:
 
 ```bash
 npm start
