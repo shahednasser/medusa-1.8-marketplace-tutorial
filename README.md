@@ -19,13 +19,13 @@ _You may change these steps per your article._
 1. Clone this repository:
 
 ```bash
-git clone <url>
+git clone https://github.com/shahednasser/medusa-1.8-marketplace-tutorial.git
 ```
 
 2. Change directory and install dependencies:
 
 ```bash
-cd <directory>
+cd medusa-1.8-marketplace-tutorial
 npm install
 ```
 
