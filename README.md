@@ -1,6 +1,6 @@
 # Medusa Marketplace Tutorial
 
-This repository is the codebase of tutorial [How to Create a Marketplace with Medusa](https://medusajs.com/blog/how-to-create-a-marketplace-using-medusa).
+This repository is the codebase of tutorial [How to Create a Marketplace with Medusa](https://medusajs.com/blog/extending-medusa-usecase-marketplace/).
 
 [Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
 
